@@ -1,4 +1,5 @@
 🛒 Grocery Store Customer Analysis
+
 📌 Project Overview
 
 This project analyzes grocery store customer purchasing behavior using data analysis and machine learning techniques. The goal is to identify different types of customers based on their purchasing patterns and build models that can predict customer segments.
